@@ -6,3 +6,5 @@
 
 
 $y=x^2$
+
+Tambah data
