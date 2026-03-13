@@ -3,6 +3,7 @@
 ## Arah riset DAB dengan Fokus lifetime Prediction
 <details>
 
+[Insight Aging Rate of DAB](https://docs.google.com/presentation/d/1pUCdEKWwZ3QhqzVgJ-ooEXfo9yNuPV2i/edit?usp=sharing&ouid=101163779256586843559&rtpof=true&sd=true)
 
   
 </details>
